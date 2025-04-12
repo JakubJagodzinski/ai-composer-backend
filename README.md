@@ -1,11 +1,11 @@
 # AI Composer - Backend
 
-This is a simple Flask backend for AI composer app generating music using neural networks.
+This is a backend written in python Flask for AI composer app generating music using neural networks.
 
 ## Contents
-- [Features](#features)
 - [Endpoints](#endpoints)
 - [Installing requirements](#installing-requirements)
+- [Required files](#required-files)
 - [Running the server](#running-the-server)
 - [Contributors](#contributors)
 
@@ -30,13 +30,19 @@ Sample request
 pip install -r requirements.txt
 ```
 
+## Required files
+Download and extract files, then add to PATH
+- [Soundfont](https://keymusician01.s3.amazonaws.com/FluidR3_GM.zip) - clicking on link will automatically download file
+- [Ffmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-n7.1-latest-win64-gpl-7.1.zip) - clicking on link will automatically download file
+
 ## Running the server
 ```
 python app.py
 ```
 Server runs by default on http://127.0.0.1:5000.
 
-## Contributors (alphabetical order)
+## Contributors
+Contributors listed in alphabetical order:
 - [erienx](https://github.com/erienx) - endpoint
 - [JakubJagodzinski](https://github.com/JakubJagodzinski) - endpoint
 - [masloorzech](https://github.com/masloorzech) - neural network
