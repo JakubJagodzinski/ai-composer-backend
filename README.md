@@ -43,8 +43,8 @@ Server runs by default on http://127.0.0.1:5000.
 
 ## Contributors
 Contributors listed in alphabetical order:
-- [BartlomiejJaruga](https://github.com/parsley026) - endpoint
-- [erienx](https://github.com/erienx) - endpoint
-- [JakubJagodzinski](https://github.com/JakubJagodzinski) - endpoint
+- [BartlomiejJaruga](https://github.com/parsley026) - endpoints
+- [erienx](https://github.com/erienx) - endpoints
+- [JakubJagodzinski](https://github.com/JakubJagodzinski) - endpoints
 - [masloorzech](https://github.com/masloorzech) - neural network
 - [parsley026](https://github.com/parsley026) - neural network
