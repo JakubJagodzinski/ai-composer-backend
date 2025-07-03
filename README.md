@@ -74,6 +74,12 @@ Server runs by default on http://127.0.0.1:5000.
 
 ---
 
+## License
+
+This project is licensed under the MIT License.
+
+---
+
 ## Contributors
 
 Contributors listed in alphabetical order:
