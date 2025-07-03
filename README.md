@@ -2,6 +2,9 @@
 
 This is a backend written in python Flask for AI composer app generating music using neural networks.
 
+### Make sure to visit AI Composer frontend repo!
+[AI Composer (Frontend)](https://github.com/BartlomiejJaruga/ai-composer-frontend)
+
 ---
 
 ## Contents
@@ -75,7 +78,6 @@ Server runs by default on http://127.0.0.1:5000.
 
 Contributors listed in alphabetical order:
 
-- [BartlomiejJaruga](https://github.com/parsley026) - backend
 - [erienx](https://github.com/erienx) - backend
 - [JakubJagodzinski](https://github.com/JakubJagodzinski) - backend
 - [masloorzech](https://github.com/masloorzech) - neural network
